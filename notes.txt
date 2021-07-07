@@ -1,0 +1,2 @@
+What is a reducer? 
+Reducer is a function that is equal to a function that accepts the state and action and then based on the action type 
